@@ -217,6 +217,10 @@ pytest
 
 ---
 
+## AI Assistance
+
+This project was developed with the assistance of an AI coding tool.
+
 ## License
 
 MIT © Misbah Anjum N
